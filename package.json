@@ -1,0 +1,14 @@
+{
+  "name": "2b2f2b52f4dd7f7b",
+  "main": "2b2f2b52f4dd7f7b@329.js",
+  "version": "329.0.0",
+  "homepage": "https://observablehq.com/d/2b2f2b52f4dd7f7b",
+  "author": {
+    "name": "Maria Alarcon",
+    "url": "https://observablehq.com/@maria-alarcon"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
